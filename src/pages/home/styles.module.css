@@ -1,0 +1,19 @@
+.Home {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px auto;
+}
+
+.HomeText {
+  width: 100%;
+  margin: 10px;
+  word-wrap: break-word;
+  margin-left: 40px;
+}
+
+.HomeImage {
+  display: block;
+  width: 40%;
+  height: 40%;
+  margin-right: 40px;
+}

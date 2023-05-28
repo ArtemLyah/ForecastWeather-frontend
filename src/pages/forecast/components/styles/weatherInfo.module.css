@@ -1,0 +1,15 @@
+.weatherInfo {
+  display: flex;
+  margin: 10px;
+  padding: 30px;
+  
+}
+
+.firstBlock {
+  text-align: end;
+  margin: auto;
+}
+
+.secondBlock {
+  margin: auto;
+}

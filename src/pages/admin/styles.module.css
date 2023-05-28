@@ -1,0 +1,22 @@
+.Admin {
+  display: flex;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.WeatherForm {
+  margin-right: 20px;
+  flex: 2;
+}
+
+.WeatherList {
+  flex: 3;
+}
+
+.DeleteBtn {
+  width: 20px;
+  height: 20px;
+  background-image: url("https://cdn-icons-png.flaticon.com/512/657/657059.png");
+  background-size: cover;
+  border: none;
+}
